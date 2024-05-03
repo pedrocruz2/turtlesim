@@ -22,7 +22,7 @@ setup(
         'console_scripts': [
             "teste = desenhador.hello:main",
             "teste2 = desenhador.goodbye:teste",
-            "desenho = desenhador.desenhotrue:desenhar",
+            "desenho = desenhador.desenhotrue:main",
         ],
     },
 )

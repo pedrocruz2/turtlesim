@@ -1,0 +1,2 @@
+def desenhar():
+    print('desenhar')

@@ -13,9 +13,9 @@ setup(
     ],
     install_requires=['setuptools'],
     zip_safe=True,
-    maintainer='seu-nome',
-    maintainer_email='seu-email',
-    description='sua-descrição',
+    maintainer='pedro-cruz',
+    maintainer_email='pedro.cruz@sou.inteli.edu.br',
+    description='projeto-super-mega-hiper-criativo-ros',
     license='CC0',
     tests_require=['pytest'],
     entry_points={

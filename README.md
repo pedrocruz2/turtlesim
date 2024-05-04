@@ -12,6 +12,7 @@ EM OUTRO TERMINAL:
 ```desenhador desenho
 desenhador teste
 desenhador teste2
+desenhador desenho
 ```
 
 - rode o comando ```ros2 run desenhador desenho``` e você verá uma tartaruga desenhando um círculo e ficará espantado com tamanha criatividade no desenvolvimento desse pacote ^^
